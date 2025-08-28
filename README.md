@@ -1,7 +1,7 @@
 <H3> Name: SANJAY V </H3>
 <H3>Register No: 212223230188 </H3>
 <H3> Experiment 1</H3>
-<H3>DATE:22-08-2025</H3>
+<H3>DATE:28-08-2025</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## Aim :
